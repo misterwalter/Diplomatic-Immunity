@@ -4,7 +4,7 @@ The story of the first season of the Imperial Dawn campaign called Diplomatic Im
 
 - Bee Boi - A sweet little boi.
 
-- Bee Boi - A sweet little boi.
+- Bee Boi - A sweet little boi?
 
 - Io - A sniper with a firm manner and little to lose.
 
