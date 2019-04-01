@@ -29,8 +29,6 @@ After recovering in the hospital, the team was granted a week of shore leave. I 
 Allied Casualties: One MP's composure
 Enemy Casualties: 5, with one additional captive.
 
-- Io
-
 # Session 2: Local Infiltration & Information-Gathering
 ### After Action Report
 
@@ -45,8 +43,6 @@ I also wish to privately express concern about the emotional state of Bee Boi. I
 Allied Casualties: None
 Enemy Casualties: None
 
-- Io
-
 # Session 3: Prisoner Interrogation & Waypoint Search
 ### After Action Report
 
@@ -58,7 +54,26 @@ Night fell quite suddenly, and the others reemerged from the cottage, investigat
 
 I'll file this report upon our return. I wouldn't decline another drink at that time.
 
-- Io
+### Additional Notes
+Yessica listed a few different Regents that she knew of, the list might be important later so I've replicated it here.
+
+
+Name/Title | Status | Description
+---------- |--------|------------
+The 10,000 Eyes | Active and Loyal | thousands of mostly autonomous eyeballs that search for any kind of threats to what remains.
+The Fountain | Active | Provides sacred cleansing water to cities that washes away the effects of Unraveling.
+The Harvest | Active | Travels around what remains, causing all living things to grow.
+High Command | Active | A distributed regency of around a dozen Blessed generals that lead a military of tens of thousands.
+The Glamor | Active | Created a paradise amusement park with increasingly "perfect" rings as one goes deeper and deeper. It doesn't control your mind, but things are so good that no one that goes past the third ring ever really returns.
+The Light | Active | A great light and chorus that anoints The Sovereign up in The Glass Mountains, and spreads across the land in different ways. Nothing within can be percieved from without, and whenever The Light moves on, everything seems to be a more perfect version of itself in the eyes of The Sovereign.
+The Mayor | Active | Runs a perfectly nice town with no problems...but for real. Everything in Town is genuinely really nice.
+Sporticas | Replaced | A regent of bowling that was swiftly replaced for reasons of dignity.
+Babalooya | Rampant, Possibly Renewed | A truly gigantic creature that would swallow unravelled artifacts, people, and lands. Babalooya was corrupted by the things that It ate though, and has been declared rampant.
+The Iron Crown | Rumored | A regent channeled themselves into an artifact of supreme political power that can totally control and alter the minds of all those that have even a single filing of iron on their person.
+The Fire | Rumored | Some say that all fire is a regent that sends the matter and bodies that it consumes off to the service of The Sovereign.
+Montilew | Rumored | Some people say that the city of Montilew, which is widely purported to be a free city without regents, is actually a regent itself that feeds on the pain and bodies of the city.
+Mirka Maroach | Rumored | She's heard the name a few times, but doesn't really know much else.
+
 
 # Session 4: Meeting w/ Local Org
 ### After Action Report
@@ -74,9 +89,8 @@ I have reason to believe there may be an unexpected guest aboard our ship. I ref
 Allied Casualties: None
 Enemy Casualties: 2, plus one camel.
 
-- Io
-
-# Session 5:
+# Session 5: Cholandran Teambuilding
+###
 
 # Session 6: Flight & Haven
 ### After Action Report
@@ -92,7 +106,7 @@ At present, we have gained access (please don't ask how) to a safe house of sort
 Allied Casualties: None confirmed. Cholandra is presently unconscious.
 Enemy Casualties: 30+
 
-- Io
+
 # Session 7: Cholandra's Trail
 ### After Action Report
 
@@ -107,7 +121,7 @@ I again need to express concern about Bee Boi. I don't dispute his usefulness --
 Allied Casualties: None
 Enemy Casualties: None
 
-- Io
+
 # Session 8: Rescue
 ### After Action Report
 
@@ -124,7 +138,6 @@ Unfortunately, though unsurprisingly, my position was discovered by the three mo
 Allied Casualties: An unknown number of members of Cholandra's organization.
 Enemy Casualties: One archer, four lancers, one "horse" rider confirmed. Eight stranded, many dismantled.
 
-- Io
 
 # Session 9: Rescue Pt. II
 ### After Action Report
@@ -138,7 +151,6 @@ I regret not containing much detail within this report. We'll begin making our w
 Allied Casualties: None
 Enemy Casualties: Numerous archers and lancers, one Blessed.
 
-- Io
 
 # Session 10: Return
 ### After Action Report
@@ -158,7 +170,6 @@ We're just about to start our slog. Fifteen miles of marsh and a secret research
 Allied Casualties: Unknown
 Enemy Casualties: 1 vessel, 1 officer, others.
 
-- Io
 
 # Session 11: Part Time Job
 ### After Action Report
@@ -193,7 +204,6 @@ Not far outside, we encountered the still form of Sheeba Dau. Bee Boi is present
 Allied Casualties: Two.
 Enemy Casualties: None.
 
-- Io
 
 # Session 14: Ambush
 
@@ -203,7 +213,6 @@ Well, so much for medical aid. Sheeba Dau did not need our help. A caveling rang
 
 We've established a truce for now. Hopefully we can work something out and go our separate ways.
 
-- Io
 
 Allied Casualties: None.
 Enemy Casualties: None.
@@ -219,7 +228,6 @@ The following day, Bee Boi's bird friend returned with the sniper's eyeball. We 
 
 Hopefully this ends well.
 
-- Io
 
 Allied Casualties: None.
 Enemy Casualties: None.
@@ -231,7 +239,6 @@ Not a day sailing without some adventure. We encountered a bunch of "boilway ray
 
 A few days downriver now. We're at the mouth of the portal, many days early, and apparently Moog can't open the portal after all. So instead we're setting up camp in the branches of one of the nearby trees. Hopefully we won't run into trouble while we wait.
 
-- Io
 
 Allied Casualties: None.
 Enemy Casualties: None?
@@ -243,13 +250,12 @@ Yessica departed by joining herself to Cholandra.
 
 Moog asked us to check up on a friend of his, Kungus Fungo. We brought the lizardfolk prisoner, Ixze, along for an appearance of authority. Apparently Kungus has been growing some kind of ferns and it got out of control. We made to leave, but he insisted on reactivating his harvesters -- turns out they were tuned for 'any living thing' and chased us out. I took a wound to my leg, but it's not too severe. Kungus and Moog have been reunited.
 
-- Io
 
 Allied Casualties: One.
 Enemy Casualties: One piece of autonomous farming equipment.
 
 # Session 18: A Failure to Communicate
-### After Action Report #18
+### After Action Report
 
 Moog got some kind of ping about an enormous threat -- something dangerous to the Sovereign -- then things went all stretchy and next thing I knew everything looked like yarn. But it turns out it was us who were yarn. We went to meet with some Servants and hopefully help them fight whatever it was, but they carted Moog off and although they healed him, they didn't seem keen on helping us help them.
 
@@ -257,7 +263,6 @@ So I threatened to kill all of us. I think the negotations were going well, unti
 
 Lovely.
 
-- Io
 
 Allied Casualties: About to be 6.
 Enemy Casualties: About to be 23.
@@ -270,7 +275,6 @@ This update is primarily to update the casualty list. We survived the battle and
 Allied Casualties: None.
 Enemy Casualties: 18 or more.
 
-- Io
 
 # Session 20: Confusion*
 ### After Action Report
@@ -304,7 +308,6 @@ We're headed your way. Talk soon.
 Allied Casualties: None.
 Enemy Casualties: None.
 
-- Io
 
 # Session 22i: The Loss of the CS Boldness
 Io returned to the ship following Moog, but with her rifle at the ready. She was the one in control now. They took a small rowboat from a servant camp dock, and stole across the water to the CS Boldness.
