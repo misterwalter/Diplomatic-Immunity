@@ -1,5 +1,5 @@
 # Diplomatic-Immunity
-The Full and Public Story of the Diplomatic Immunity Campaign.
+The Full and Public Story of the Diplomatic Immunity Campaign, a long term game of [Imperial Dawn](https://imperialdawn.com/#!/) being played more or less weekly over the internet.
 
 [Season 1 (incomplete)](https://github.com/misterwalter/Diplomatic-Immunity/blob/master/1_CS_Boldness.md)
 
