@@ -64,7 +64,7 @@ Once everyone was aboard the ship, Captain Psychrus took a moment to say a few w
 
 ---
 
-After a day of cramped quarters and otherwise pleasant sailing, the ship came to dock at Chs'oh. At the time, Chs'oh was a lively port city, famous for it's radiant architecture. From the slips to the skyline, everything was made of carefully fitted polished stone of every imaginable color. The city itself was prosperous, and in typical council fashion, the abundant wealth was spread amongst the people, who paid their dues in labors or prayers at their own discretion.
+After a day of cramped quarters and otherwise pleasant sailing, the ship came to dock at Chs'oh. At the time, Chs'oh was a lively port city, famous for its radiant architecture. From the slips to the skyline, everything was made of carefully fitted polished stone of every imaginable color. The city itself was prosperous, and in typical council fashion, the abundant wealth was spread amongst the people, who paid their dues in labors or prayers at their own discretion.
 
 Captain Psychrus discretely lead the survivors through a few city blocks to an administrative center, where they were divided into three groups. The crew of the CS Boldness was interviewed in one are, the Cholandrans in another, and the away team in a small courtyard at the center of the building a few stories up.
 
@@ -72,7 +72,7 @@ Now, it's worth noting that at the time, nobody really thought much of bringing 
 
 The first thing this new captain explained to us was that she didn't have a ship, she was more of a captain by rank. We didn't really care much, but it was fun trivia.
 
-We got into it properly after that though. Saigai started by grilling us about the loss of the ship, and Io. We didn't say much. She kept trying to get us to say literally anything about the diplomats or where they had gone or if they were okay, but we knew nothing because we had been barred from knowing anything, so she eventually relented.
+We got into it properly after that though. Saigai started by grilling us about the loss of the ship, and Io. She had read all of Io's reports, and hadn't thought that someone so fastidious would have acted so recklessly. We didn't say much. She kept trying to get us to say literally anything about the diplomats or where they had gone or if they were okay, but we knew nothing because we had been barred from knowing anything, so she eventually relented.
 
 It was a little tense, so she tried to butter us up with some good news. The Bee Boiz could go home! They just had to prove that they had some kind of parent or guardian to put on the paperwork. The director graciously and raucously volunteered, and the matter was settled, for the most part. Saigai kept saying that they might want to stay in by the end of the meeting, which was a little ominous. There were some questions raised about The Director's "status", but she was able to appear lively enough to handle some good little boiz, and was granted guardianship despite her condition.
 
