@@ -1,4 +1,4 @@
-The story of the second season of the Imperial Dawn campaign called Diplomatic Immunity, played weekly from the summer of 2018 through the present day.
+The story of the second season of the Imperial Dawn campaign called Diplomatic Immunity, played weekly from the summer of 2018 through the early spring of 2019.
 
 # The Main Cast
 
