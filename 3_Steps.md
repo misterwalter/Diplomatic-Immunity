@@ -31,3 +31,59 @@ Ixze wasn't hard to find. Xe was with Salve, doing xer best to heal the wounds o
 
 # Session 2: The Morning After
 
+# Session 3:
+
+# Session 4:
+
+# Session 5:
+
+# Session 6: The Investigation Begins
+After reassembling our horse, we got on our way again, and rode on. We passed out of the forest, and into the rolling Swamp. As the Stochastic Spires came into view throw the clouds on our left, the tumbled mountains became visible on our right. We turned to The Spires, and rode inland, away from the river.
+
+We were quickly challenged by Naario and Bungus Bungo, who were strangers to everyone but Ixze. Ixze briefly panicked, until ze remembered that Naario had tried to help zer before. Naario called out to Ixze, and the two stepped to the side for a quick aside. Granted, the whole thing was being telepathically relayed to all of us, but we didn't see any reason to insult his discretion. He was friendly enough, and welcomed Ixze and the rest of us to the facility. He did warn us to be a lot more careful though. We got confirmation that Oc and Moog had ratted us out before, and apparently we blew some interview as well. It was a little disheartening, but it was good advice, so Ixze accepted it. Naario promised to bury the fact that Ixze was there in the report, and said that as long as the group did their business quietly, it shouldn't be a problem.
+
+He asked zer about what ze was doing there, and Ixze answered honestly, saying that they were all there to see if they could help Santha, as well as to do an investigation for Redemption. He nodded, said that both of those were fine, which we appreciated. Then he said that his money was on the collapses being the result of chaos, not sabatoge, which we all thought was pretty suspicious.
+
+With that they returned to group. Summary introductions were made, our Redemption papers were flashed, and we were on our way. Naario and Bungus led us through a maze of gravel dunes to a brick wall set into the side of a particularly large door, and we passed into the facility. As we did though, Ixze and Ara noticed one of The 10,000 eyes sticking to a divot in the wall, silently watching.
+
+---
+
+Once inside, Cain's horse was stabled in a giant underground hangar of sorts. The ground was covered in Technomantic vehicles and heavily strapped down skeleton mounts of all sorts. Naario and Bungus hopped off of their spiders, and their mounts skittered up the walls into a giant mesh of webs and girders that held dozens upon dozens of spiders. Naario split off from there, saying he had paperwork to do, and Bungus took us to our rooms.
+
+Apparently one of the dormitories had been duplicated at one point, so we had plenty of space to ourselves. We each got our own room, and it didn't look like there was anybody else on the floor. Each of our doors had special handles that would only open for us, and security "of course", so we were mostly secure. We got ourselves settled in, helped ourselves to the truly excessive dental supplies in the room, and even got Bungus to slip a medic in for us without Doktuh Dakog noticing.
+
+---
+
+After a little while, a wrinkly little purple spora named Grigzo that uhh, had uhh, a ehhh, infuuuuuuriating ah, manner of...speech came and informed us that she would be our guide. Cain was declared her to be useless due to her lack of bones, but the rest of us tolerated her alright, at least until the questions started.
+
+There had been three major catastrophes in the last month and a half.
+
+The first was The Flickering. It happened about a mounth and a half ago. The wild-wise null field generators in the outmost ring had failed, leading to a cascade of generator failures across the facility as each lost of the support of the others around it and was overloaded in turn. Before this event, there were six towers in the Stochastic facility, but after that apparently a bunch of the towers just started disappearing and reappearing at random. Grigzo says that they've got it mostly stable now, but Tower Six still goes in and out sometimes. We made a note to avoid Tower Six.
+
+The second was The Grasping Hunger. She didn't seem to want to talk about this one much, but from what we could get out of her, the wild-wise generators failed again, and everyone and everything started growing a whole lot of extra mouths. Those mouths were real hungry, too. Apparently this one was the most deadly, and the one that she's most surprised that they could fix, especially so completely.
+
+The third was the Shuffling. The wild-wise generators failed again, to no one's surprise. Everything in the facility got displaced pretty randomly. This just sounded confusing at first, rather than dangerous. Then we heard about people showing up encased in the rock deep below the ground, and popping into the air a mile or so up. I guess whole labs haven't been rediscovered yet, and there are still digging crews trying to feel out where their missing coworkers might be. Most of the facility ended up underground, which explained the lack of visible towers or a real road outside.
+
+Even with all this, or perhaps because of it, there was no single record of the catastrophes that we had been sent to solve. There were five different teams collating reports on different aspects of the events, but none were complete. Cain requested the reports anyway.
+
+There was also, somehow, no document saying who actually worked for the Stochastices. There might be a few wildly outdated documents somewhere, but things had been so chaotic and secretive for so long that there was no real reason to think that any vaguely accurate document existed. With so many people showing up as volunteers, and so many people disappearing for various horrifying reasons in the triple catastrophes, people had just started working with the people that they knew personally to make sure that the work that they understood got done. That fact that anyone was getting fed, much less paid, was nothing short of a miracle.
+
+With those disappointments in mind, everyone but hesitated for a moment to think of a plan. Ara, true to her nature, demanded to be taken to the Chronomancers. Grigzo obliged, and led us through the maze. Ara and Cain mostly remembered the way back, but the rest of us were hopelessly lost.
+
+---
+
+Grigzo got us past reception and got us ten minutes with the Chronomancers. We tried the door, found that it opened, and walked into a large, unground room. A few nerdy looking wizards were tossing tarps over something glowy in the middle of the room, and there was a large radius marked off around the device with great big WARNING labels. One of them, Dr. Denly, came over and introduced himself. He was friendly enough, but not as useful as Ara would have liked.
+
+Apparently the Chronomaster, Dr. Denly's boss, had gone off on some kind of trip two weeks ago, and was supposed to have returned last week. She might have been able to help Santha, but he sure couldn't. He went off on a tangent about how much he disliked the Chronomastet title, which didn't feel totally necessary, but we let him anyway. It wasn't our jobs on the line.
+
+He did fill us in on a few details of the catastrophes though, which was nice. Apparently there were about 180 null field generators, and they had originally been set up in two rings around the facility, with a few more added in ad hoc until The Shuffling. There had been collapses before, but only one in the four and a half years that he had been there, and it was two years ago now. He personally didn't suspect anyone, but admitted that it was possible that someone was doing all of it on purpose.
+
+---
+
+After that, we decided to check the generators. Grigzo led us to the outer ring, which was a sort of long, circular hallway with about 100 or so generators in it, all spaced out about 50 meters apart around the entire facility. There was nobody watching the door, but oddly enough, Grigzo couldn't get through. We could though, so we stomped our way in and left her outside. It was kinda funny, but it also made us a bit more suspicious of her as well.
+
+Ixze and Doktuh Dakog MD set about investigating the generators. They were fairly large metal cylinders, a few meters long, and about a meter in radius. Inside they had some kind of giant scroll that was constantly spinning and burning on the outer edge. They seemed pretty durable, and when Doktuh Dakog stuck his gretchen into one, the gretchen lost pretty abruptly. Luckily, Cain was on hand to reassemble the poor thing, and nobody felt the need for further experimentation. We got a little bit fo a shock a moment later when some parts of the gretchen that we handn't gotten back fell out of the bottom, and closer inspection revealed a hand-width slot in the metal casing at the bottom of the generator.
+
+Ixze walked a loop around the tunnel, checking for weakpoints, and ze didn't find any of those. Ze did find a place where the trail of cables and generators seemed to wrap up the wall, onto the ceailing, and back to along the other wall to the floor again, which we all agreed probably wasn't good. The fact that there was a generator bolted upside down to the ceiling didn't really feel right either.
+
+Perplexed and a little frustrated, we had Grigzo guide us back to our rooms, and we retired for the night.
