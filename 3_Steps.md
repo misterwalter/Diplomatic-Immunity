@@ -10,6 +10,7 @@ The story of the  sthird eason of the Imperial Dawn campaign called Diplomatic I
 
 - Jubilee - An old hand at the theater that really wanted to get out more.
 
+- Master Novum Cain - A master of bone and flesh. He is NOT a good boy.
 
 # Session 1: Redemption
 
