@@ -93,7 +93,9 @@ Perplexed and a little frustrated, we had Grigzo guide us back to our rooms, and
 
 As most of us bedded down for the night, Master Novum Cain set to work on a new invention, and Folium ventured out into the facility for a little investigation of her own.
 
-First, she set to work interrogating the various decorative potted plants of the facility. She mostly just heard a lot of disappointment over the lack of current lighting. There are very few plants that are comfortable underground, and she wasn't speaking to any of them. Beyond that though, she got a consistent vibe of stress and suspicion from the people there now, when things didn't used to be that way. Everything was toxic now, and nice people weren't so nice anymore.
+First, she set up panic buttons in each of our rooms, so that we could immediately sound an alarm if anything happened.
+
+Second, she got to work interrogating the various decorative potted plants of the facility. She mostly just heard a lot of disappointment over the lack of current lighting. There are very few plants that are comfortable underground, and she wasn't speaking to any of them. Beyond that though, she got a consistent vibe of stress and suspicion from the people there now, when things didn't used to be that way. Everything was toxic now, and nice people weren't so nice anymore.
 
 With that, she returned to the outer ring of generators, and did one more inspection pass. Looking at the insides, she was able to piece together that the generators seemed to work by generating long sheets of runes constantly, combining those runes in different ways by laying them on top of eachother, and burning the paper with the runes once it had reached the edge of the roll. It was definitely pretty advanced.
 
@@ -119,3 +121,10 @@ Doktuh Dakog MD talked shop with an increasingly concerned mortician as Cain dug
 
 You might fault the two morticians for not paying closer attention to him, but as that was happening, Doktuh Dakog MD was proving his mettle as a medical professional by slicing open important veins in his arm and bleeding all over everyone. So their plates were pretty full. As soon as Cain had the arm, Doktuh Dakog declared victory, and the two exited the scene.
 
+---
+
+That night, Cain was putting finishing touches on his newest creation when there was a knock at his door. Feeling suspicious at the timing, he sent a bone drone to look through the peephole on the door instead of going himself.
+
+As soon as the drone moved up to the peephole, the door was kicked in with incredible force, knocking the drone away wildly as a pitch black blobular figure smashed into the room. It would have been a hell of an entrance if Cain had answered the door, but he hadn't. He was in fact sitting a few feet away at his desk, activating Folium's panic button, and charging his new toy: A gigantic necrotic cannon made of bone, with a barrel constructed of not one, nor two, nor three, but four ribcages.
+
+As the cannon screamed to life and the alarm blared, the intruder decided that tonight was not their night, and ran. Beams of necrotic energy, several sets of footsteps, and confusing shouting pursued them down the hallway. They took a hit to their side, but managed to keep running, just barely reaching the stairs before being hit in the back with another and faceplanting. By the time they had regained their senses, trees had sprouted from the floor around them, locking them in, and they were surrounded by shouting voices.
