@@ -23,11 +23,13 @@ She realized that she had no idea where she was, and jolted into alertness. The 
 What he had to say was bullshit. Apparently she had been identified on the Deshton Reform raid, The Director's eyes had been two of The 10,000, and had managed to report back. Now Redemption had her sister in some kind of stasis bullshit, and they were going to give her up for adoption if Ara didn't knock over some Vershezulite cult. There was a lot of talk of reputational gains, and the limits of what this Sladaaji character could do to protect her, but it was all bullshit. He might have been telling the truth about not liking Deshton Reform, but there was no way to know and no reason to care. Seeing no better option, she agreed. He bonds were dispelled, she was given the name of her first squadmate, and a stack of unsettlingly meticulous dossiers detailing the targets.
 
 ---
-Ixze wasn't hard to find. Xe was with Salve, doing xer best to heal the wounds of the city. Upon hearing that desertion charges might be pressed against xem despite their service to Salve, and that apparently only Redemption could help xem, Ixze started to turn towards joining up. Upon hearing that Ara needed help, Ixze made xer call.
+Ixze wasn't hard to find. Ze was with Salve, doing zer best to heal the wounds of the city. Upon hearing that desertion charges might be pressed against zem despite their service to Salve, and that apparently only Redemption could help zem, Ixze started to turn towards joining up. Upon hearing that Ara needed help, Ixze made zer call.
 
 ---
 
+The two returned to Sladaaji to get some answers regarding their mission, and the nature of their new teammates. Sladaaji did his best to answer Ixze's questions, but seemed uncomfortable all the same. When pressed as to what would happen if they got hurt, he perked up though, ushered them into another room, and bid them to greet their new healer.
 
+Doktuh Dakog, MD, was partway through a surgery at the time, but he seemed more than happy to greet them all the same.
 
 
 # Session 2: The Morning After
