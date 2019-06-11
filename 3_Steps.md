@@ -4,7 +4,7 @@ The story of the  sthird eason of the Imperial Dawn campaign called Diplomatic I
 
 - Ara - A passionate young girl with great mastery of knives and moons.
 
-- Ixze - A teenage deserter trying to find xer way in the world.
+- Ixze - A teenage deserter trying to find zer way in the world.
 
 - Doctor Dakog, MD - A doctor of questionable manner and dubious skill.
 
@@ -88,3 +88,26 @@ Ixze and Doktuh Dakog MD set about investigating the generators. They were fairl
 Ixze walked a loop around the tunnel, checking for weakpoints, and ze didn't find any of those. Ze did find a place where the trail of cables and generators seemed to wrap up the wall, onto the ceailing, and back to along the other wall to the floor again, which we all agreed probably wasn't good. The fact that there was a generator bolted upside down to the ceiling didn't really feel right either.
 
 Perplexed and a little frustrated, we had Grigzo guide us back to our rooms, and we retired for the night.
+
+# Session 7: Plans and Accidents
+
+As most of us bedded down for the night, Master Novum Cain set to work on a new invention, and Folium ventured out into the facility for a little investigation of her own.
+
+First, she set to work interrogating the various decorative potted plants of the facility. She mostly just heard a lot of disappointment over the lack of current lighting. There are very few plants that are comfortable underground, and she wasn't speaking to any of them. Beyond that though, she got a consistent vibe of stress and suspicion from the people there now, when things didn't used to be that way. Everything was toxic now, and nice people weren't so nice anymore.
+
+With that, she returned to the outer ring of generators, and did one more inspection pass. Looking at the insides, she was able to piece together that the generators seemed to work by generating long sheets of runes constantly, combining those runes in different ways by laying them on top of eachother, and burning the paper with the runes once it had reached the edge of the roll. It was definitely pretty advanced.
+
+The tunnel as a whole seemed much the same as before, except that this time, two generators were up on the ceiling instead of just one. Folium noted this with some trepedation, and set to work. By morning, she had set a sapling in front of every generator, with orders to observe without attacking if anyone should come by. After the daily inspector has passed through, she also installed alarm traps on each of the three doors into the ring tunnel. As she did so, she noticed that there was only one generator on the ceiling again, even though there was still no evidence of them being moved or reinstalled by normal means.
+
+With that, Folium came back just in time for breakfast.
+
+---
+
+After a hearty breakfast of mac and cheese waffles, lasanga pancakes, and ravioli eggs from the amazingly well stocked cafeteria, we set out to interview Brib Nieblich one of the three Blessed administrators. Brib was a large, dark grey stoneborn with two red sabers at his sides, and a remarkably fast pace for a stoneborn. He was meeting with a researcher when we ran into him, but was happy to answer questions anyway.
+
+He was in charge of security at the facility, and was remarkably chipper about it, given the state of things. Ixze, it should be noted, was not as excited about things, as ze realized that ze had actually met Brib before, however briefly. The last time that Ixze had been here, Brib had demanded that ze and the rest of the party at the time be immediately killed. He had even concussed Naario and Bungus when they had failed to immediately comply. Now Brib had had his reasons, but it was still unsettling at best, and Ixze had a feeling that the fact that Brib had never actually laid eyes on zer was a very fortunate thing indeed.
+
+Despite all that, the conversation went pretty smoothly. Brib reiterated that there was probably nothing going on beyond the pressure spikes, and that those were both unprecedented and accounted for. According to Brib, they had been coming every time a significant force or entity entered the sovereign's realm. When we asked why he wasn't worried about more, Brib said that his reasons were classified, but cited the expertise of a Dr. Blishleigh, who was developing technology to record magical pressure events.
+
+If nothing else, it was nice to get confirmation that at least one of the Blessed wasn't actively trying to kill us. We even managed to get a meeting with Cal Dayileki, the Blessed that developed that generators, set up for the next day.
+
