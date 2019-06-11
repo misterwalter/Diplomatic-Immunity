@@ -6,7 +6,7 @@ The story of the  sthird eason of the Imperial Dawn campaign called Diplomatic I
 
 - Ixze - A teenage deserter trying to find zer way in the world.
 
-- Doctor Dakog, MD - A doctor of questionable manner and dubious skill.
+- Doktuh Dakog, MD - A doctor of great confidence and dubious skill.
 
 - Jubilee - An old hand at the theater that really wanted to get out more.
 
@@ -110,4 +110,12 @@ He was in charge of security at the facility, and was remarkably chipper about i
 Despite all that, the conversation went pretty smoothly. Brib reiterated that there was probably nothing going on beyond the pressure spikes, and that those were both unprecedented and accounted for. According to Brib, they had been coming every time a significant force or entity entered the sovereign's realm. When we asked why he wasn't worried about more, Brib said that his reasons were classified, but cited the expertise of a Dr. Blishleigh, who was developing technology to record magical pressure events.
 
 If nothing else, it was nice to get confirmation that at least one of the Blessed wasn't actively trying to kill us. We even managed to get a meeting with Cal Dayileki, the Blessed that developed that generators, set up for the next day.
+
+---
+
+After that, Doktah Dakog insisted on inspecting the medical facilities. We were all a little worried about that, but he went anyway, and Cain followed. The two were greeted by a hangar sized room that had been filled with beds, patients, and frantic healers. After trying and failing to procure a tour guide, they wandered over to the morgue for a little independent investigation and/or supply run. What they found did not disappoint.
+
+Doktuh Dakog MD talked shop with an increasingly concerned mortician as Cain dug through the bodybags. It didn't take long for the mortician to start doubting Doktuh Dakog's MD, but Cain didn't need much time to find what he was after. Cain quietly zipped open a bodybag and casually borrowed an arm from the mortal remains of Dr. Spindling, a former "Chronosplicing researcher". We weren't 100% on what that title meant, but it sounded important enough, and Cain figured that the researcher's arm might come in handy for opening doors.
+
+You might fault the two morticians for not paying closer attention to him, but as that was happening, Doktuh Dakog MD was proving his mettle as a medical professional by slicing open important veins in his arm and bleeding all over everyone. So their plates were pretty full. As soon as Cain had the arm, Doktuh Dakog declared victory, and the two exited the scene.
 
