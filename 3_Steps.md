@@ -137,4 +137,12 @@ We gave the intruder a good shouting over, but they didn't seem to budge. Then w
 
 With Naario and Bungus coming in on their spiders, we decided to leave things to the professionals. Unfortunately, the professionals didn't really know any better than we did, and so Naario and Bungus hit the same brick wall as us. Bungus ended up just wrapping the intruder in spiderweb and having his spider stick the poor bastard with something that knocked them out cold. Folium and Cain hopped on the backs of the spiders, and those five all rode back to some security hangar. The rest of us all had to sleep, so we stumbled back to our rooms and did just that.
 
+---
+
+Once the five reached the security hangar, our captive was quickly dropped on a table that had convenient hand and ankle shackles, and quickly chained. Naario then spritzed them with a little something that evaporated the web, and promptly ran off to make sure that guards were posted by our bedrooms.
+
+Once everybody had had a chance to cool off, we had a chance to look over our captive a little more thoroughly. Though we'd initially thought them to be cloaked in dark grey, they appeared to just have near black leathery skin all over their body. In fact, they were completely naked, and utterly devoid of any kind of genitals. Their general shape was largely orcish, but no one would call them an orc without being told so first. They carried nothing, and seemed sweaty to the touch.
+
+Cain started to get geared up to do the whole lightswitch interrogation thing, and was a little disappointed when Folium hit a breakthrough.
+
 
