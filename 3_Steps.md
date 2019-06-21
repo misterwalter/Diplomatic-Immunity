@@ -152,3 +152,8 @@ Folium started to press our captive on what exactly their plan was, now that the
 Our captive explained that they had just woken up in a hallway with an understanding that they had to go to a certain room, beat up whoever was inside, and leave quietly. They knew the directions to that room, but not much else. They didn't know why they were doing it, or why that room in particular. The only other other thing that they had been sure of was that it was very important to act quickly, so they had rushed to their mission without a second thought.
 
 Through the interview, Folium was able to get the list of directions that she needed, and we got what we needed to trace back to the spot where our captive had started. A psychic call roused the rest of the group, and we all met up at a very smelly carpet.
+
+---
+
+Once we got there, the location was obvious. Smack dab in the center of a rug in the middle of a long hallway, was a gigantic patch of crusty disgusting dried fluid. The carpet was ruined, but our investigation was wrapping up with surprising speed. We poked at a it a little, but it was only once Grigzo arrived that we figured out the source. Grigzo announced that it was clearly the work of a certain Dr. Grimgen, and within a few minutes, Brib Nieblich was on the scene. After an almost concerningly brief period of contemplation, Brib determined that we needed to interrogate the frontdeskatoon of Dr. Grimgen's hangar, and probably kill them all.
+
