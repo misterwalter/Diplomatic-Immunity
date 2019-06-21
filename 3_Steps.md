@@ -141,8 +141,14 @@ With Naario and Bungus coming in on their spiders, we decided to leave things to
 
 Once the five reached the security hangar, our captive was quickly dropped on a table that had convenient hand and ankle shackles, and quickly chained. Naario then spritzed them with a little something that evaporated the web, and promptly ran off to make sure that guards were posted by our bedrooms.
 
-Once everybody had had a chance to cool off, we had a chance to look over our captive a little more thoroughly. Though we'd initially thought them to be cloaked in dark grey, they appeared to just have near black leathery skin all over their body. In fact, they were completely naked, and utterly devoid of any kind of genitals. Their general shape was largely orcish, but no one would call them an orc without being told so first. They carried nothing, and seemed sweaty to the touch.
+Once everybody had had a chance to cool off, we had a chance to look over our captive a little more thoroughly. Though we'd initially thought them to be cloaked in dark grey, they appeared to just have near black leathery skin all over their body. In fact, they were completely naked, and utterly devoid of any kind of genitals. Their general shape was broadly orcish, but no one would call them an orc without being told so first. They carried nothing, and seemed sweaty to the touch. Worst of all, a slight stench of old fish hung over them.
 
-Cain started to get geared up to do the whole lightswitch interrogation thing, and was a little disappointed when Folium hit a breakthrough.
+Cain started to get geared up to do the whole necromantic interrogation thing, and was a little disappointed when Folium hit a breakthrough.
 
+---
 
+Folium started to press our captive on what exactly their plan was, now that they were captured, and that seemed to get a crack. They seemed to start to realize that they didn't really have one. They didn't really know much of anything. Not only were they unsure of who they had been working for, they weren't even really sure of who or what they were. As it turns out, all that we really had to do was offer a helping hand, and they fell right into it. The only friction came when they complained of exhaustion and begged to be allowed to sleep, but Cain used a necromantic spell to rid them of any need to sleep, eat, breath, age, or really do much of anything other than talk to us for a few days, which got them back on track.
+
+Our captive explained that they had just woken up in a hallway with an understanding that they had to go to a certain room, beat up whoever was inside, and leave quietly. They knew the directions to that room, but not much else. They didn't know why they were doing it, or why that room in particular. The only other other thing that they had been sure of was that it was very important to act quickly, so they had rushed to their mission without a second thought.
+
+Through the interview, Folium was able to get the list of directions that she needed, and we got what we needed to trace back to the spot where our captive had started. A psychic call roused the rest of the group, and we all met up at a very smelly carpet.
