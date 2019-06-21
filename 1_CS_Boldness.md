@@ -60,7 +60,7 @@ Yessica listed a few different Regents that she knew of, the list might be impor
 
 Name/Title | Status | Description
 ---------- |--------|------------
-The 10,000 Eyes | Active and Loyal | thousands of mostly autonomous eyeballs that search for any kind of threats to what remains.
+The 10,000 Eyes | Active and Loyal | Thousands of mostly autonomous eyeballs that search for any kind of threats to what remains.
 The Fountain | Active | Provides sacred cleansing water to cities that washes away the effects of Unraveling.
 The Harvest | Active | Travels around what remains, causing all living things to grow.
 High Command | Active | A distributed regency of around a dozen Blessed generals that lead a military of tens of thousands.
