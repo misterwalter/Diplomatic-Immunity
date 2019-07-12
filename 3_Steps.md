@@ -155,5 +155,45 @@ Through the interview, Folium was able to get the list of directions that she ne
 
 ---
 
-Once we got there, the location was obvious. Smack dab in the center of a rug in the middle of a long hallway, was a gigantic patch of crusty disgusting dried fluid. The carpet was ruined, but our investigation was wrapping up with surprising speed. We poked at a it a little, but it was only once Grigzo arrived that we figured out the source. Grigzo announced that it was clearly the work of a certain Dr. Grimgen, and within a few minutes, Brib Nieblich was on the scene. After an almost concerningly brief period of contemplation, Brib determined that we needed to interrogate the frontdeskatoon of Dr. Grimgen's hangar, and probably kill them all.
+Once we got there, the location was obvious. Smack dab in the center of a rug in the middle of a long hallway, was a gigantic patch of crusty disgusting dried fluid. The carpet was ruined, but our investigation was wrapping up with surprising speed. We poked at a it a little, but it was only once Grigzo arrived that we figured out the source. Grigzo announced that it was clearly the work of a certain Dr. Grimgen, and within a few minutes, Brib Nieblich was on the scene. After an almost concerningly brief period of contemplation, Brib determined that we needed to interrogate the frontdeskatoon of Dr. Kholani's hangar, and probably kill them all.
+
+Within a few minutes time, we were having a chat with the receptioneer as Brib pinned the poor guy to the waiting room couch and Folium sealed the hangar door with wood. He reported no odd activity within the hangar, but Ara looked into his thoughts, and saw that he had been putting his head down and not looking when certain shipments had been taken in and out of the hangar. We all thought that was pretty suspicious, Brib most of all. In fact, Brib thought it was so suspicious that he punched a hole clean through the receptioneer's face and out the other side.
+
+We were startled to say the least, but when Brib ordered us to form up and prepare to purge the hangar, we didn't hesitate. Whatever was on the other side of that hangar door wasn't going to be half as scary as what was on our side.
+
+# Session 9: Spark and Sword
+
+The raid mostly broke into two parts. The organized bit, and the messy bit.
+
+Folium activated a good chunk of her fulminated vitriol, and stuffed in into the gaping hole in the receptioneer's head. There was plenty of room. Then Cain and Dakog worked together to not just reanimate the corpse with a face made out of other bit of skin and such from other parts of the body where they "wouldn't be missed". I couldn't give details because I didn't watch, but Ara did stick a moon orb on it and Cain's drone after they were done.
+
+Once they got that done, Folium peeled the wood off of the door, and Brib confidently walked in. The hangar was pretty huge, at least a few hundred meters long. All around the entrance big wooden crates and metal tanks of supplies were stacked. A few researchers were tinkering with some kind of limbed technomantic wagon whose arms were wrapped around one of the giant tanks. Behind them were two giant machines, the smaller of which was buried under a pile of rubble. They were both kicking off enough noise and steam to fill the room. One researcher looked up, and then called out that Brib was here as she walked over with a smile. She seemed friendly enough, and was more than happy to comply when Brib asked her to gather all the researchers at the door for an announcement. We all hung back, and did our best not to show our horror as nearly two dozen researchers, including the truly massive Dr. Kholani, stepped away from their stations across the hangar to cluster around Brib. Brib began to lecture ominously about the importance of loyalty, and Cain set the plan into motion.
+
+The corpse of the receptioneer stepped forward almost steadily behind Brib, keeping behind him until until it passed him and made a beeline for the wagon. A few researchers noticed, one of them even pointed quizzically. None of them moved an inch before the corpse reached its target though, so every single one was in the blast radius when the corpse headbutted the wagon, setting off enough vitriol to blow them all to chunks. Only Dr. Kholani surived the inital impact, and she didn't survive the second bomb that Folium chucked her way.
+
+Brib was of course, completely unharmed.
+
+Fuck me.
+
+That put an end to the organized bit though, and we started to scout ahead into the hangar. There was no way it was going to be that easy.
+
+Brib stumbled onto a few cowering researchers and his fists through them with unnerving satisfaction.
+
+Ara's moon orb happened to be stuck to a piece of head that flew most of the way to the machines, so she moon-hopped over to it, instantly putting herself far from the rest of us.
+
+Ixze climbed up onto the ceiling for a better look, trusting her sticky fingers to carry her.
+
+Dakog, Cain, and Folium stepped cautiously forward across the open floor, fanning out as approached the giant machines.
+
+Ara made contact first, spotting a few blobby figures as she climbed through the rubble. They looked just like the figure that had tried to beat up Cain the night before, except that they were wetter and whiter, almost translucent. A few noticed her and started to chase her, so ducked around in a different direction, and ended up in a dead-end tunnel that gave her just the slightest view of a researcher frantically praying through a hole in the rock. She wanted to stab him, but she couldn't get through easily, and he had a few pale figures with him, so she sent a thought to Cain, asking him to fly his drone to the top of the larger machine. Just as the swarm of pale figures closed in on her, she moon-hopped over to Cain's drone, and dropped lightly onto the top of the massive machine, just below Ixze.
+
+From there the two could see two researchers performing the same kind of prayer at altars on the far side of the large machine. We couldn't make out what they were saying over the noise of the machinery, but when we saw three more pale figures stagger out of the machine between them, dripping pus and staring around wild-eyed, we felt we had a pretty good guess. Unfortunately they joined about twenty of their fellows, who were swarming around the researchers. With Folium, Cain, and Dakog just barely pushing into the rubble and in no position to help her if something went wrong, Ara cloaked herself in darkness, jumped down onto the nearest researcher, and put her knife right through his neck.
+
+Ixze panicked and started shouting wildly about how this was all a false flag operation, in an attempt to try to distract anyone ze could. Foolish as it was, it probably saved Ara's life. Ara was immediately swarmed by the pale figures, who blindly struck and clawed as they surrounded her. Ara could have easily bested any one of them, but she was suddenly beset by two dozen, half a dozen of which were within immediate reach. The elven child dove and ducked and danced though, and only took one serious hit to her side before moon-hopping right over to the other researcher to push her luck even further. She stuck him in just one blow too, which is good because she had a dozen pale figures on her before she could so much as turn around.
+
+As that was happening, Brib, Cain, Dakog, and Folium were frantically pushing through the rubble tunnels trying to catch up. A few of us (not Brib, of course) burned themselves on some weird crystals before Folium was able to elementally tap into them, grind them into gravel, and fling them into an oncoming wave of pale figures. It didn't kill many, but it did block off one of two paths, and all the mere mortals piled into the right hand tunnel while Brib showed off by walking through the burning crystals to take the left. That left him considerably closer to the pre-teen that was about to be ripped limb from limb, but when we tried to get him to rush over and back her up, he just responded that "she will prove herself, or she will learn." Now that wasn't strictly true, as the dead know nothing and she was about to die, but there was some logic to it, so we let it slide and pushed through our own tunnel.
+
+It wasn't long before we found the same tunnel that had stymied Ara before, but we had a significant tactical advantage: Cain's cannon. As soon as he laid eyes on the researcher, he charged, aimed, and put a glowing green hole right through the distracted idiot's face. The rubble collapsed a bit and the pale figures started to swarm towards us in the tunnels, but Cain held down the trigger, Folium tossed phos-poppers and her last vitriol, and Dakog slapped our guts back in whenever they got close enough to cut us.
+
+Ara took a harsh hit to the face and nearly lost consciousness, but was able to keep it together just enough to moon-hop back to the rooftop drone one more time, where she spent the rest of the battle screaming down at the pale figures as they swarmed into our killbox.
 
