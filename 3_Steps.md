@@ -197,3 +197,46 @@ It wasn't long before we found the same tunnel that had stymied Ara before, but 
 
 Ara took a harsh hit to the face and nearly lost consciousness, but was able to keep it together just enough to moon-hop back to the rooftop drone one more time, where she spent the rest of the battle screaming down at the pale figures as they swarmed into our killbox.
 
+# Session 3-10: Pack Up and Pack Out
+
+After we killed off the last of the pale figures, we did one last sweep of the hangar, and everything seemed to be clean. At least the creepy things weren't much for hiding.
+
+Dakog patched up a few of us, Ara lied about her wounds, and Brib wiped his gorey hands on the clothes of a fairly intact researcher. he congradulated us on all surviving the battle, saying that he hadn't expected that. His twin red swords were still clean though, so I guess he hadn't been that concerned. He'd expected us to die, and he hadn't even been trying. Fucking Blessed.
+
+We all did our part in the cleanup. Brib didn't want knowledge of these techniques to sprad unnecessarily he said, so it was best to keep the document destruction limited to those that wouldn't understand them anyway. He went on about how it was a real shame that the techniques hadn't panned out, being able to endlessly replicate people would have totally eliminated their need for volunteers to aid them in their essential work, but now it seemed that they would have to continue to depend upon Mirka's people in order to best serve. We shrugged it off mostly, it wasn't really our problem. We'd solved the mystery of who was sabatoging the generators, and so our job was done. All we really wanted to do was go home and have Sladaaji tell us that we were free and clear.
+
+So Folium worked up a giant batch of vitriol to destroy the two machines, Dakog scavenged the bodies for any good organs, and the rest of us scrubbed gore, burned notes, and smashed prototypes. It was actually kinda fun, almost idyllic, in a way. Just having everybody helping eachother out and chatting as we worked was really calming, though in retrospect it said a lot about of our comfort level with death.
+
+It started to fall apart when Dakog decided to gather up all the researchers ID badges that he could find.
+```
+Dr. Hajj Kholani
+Dr. Skoov
+Dr. Hixly
+Dr. Ganatrixus
+Dr. Heidel
+Dr. Spindling
+```
+
+Now some of these names might seem familiar to you. Dr. Hajj Kholani is clearly the head researcher here, and we've certainly heard her name before, but it's Dr. Spindling who really causes us problems.
+
+You see, we ran into Dr. Spindling before. In the morgue. When we took his arm. From his corpse.
+
+Which left us with two possibilities:
+
+First and preferably, there were two Dr. Spindlings working for the Stochastices. Both are now dead, and this is a tragedy.
+
+If not though, that left the chance that one or both of the two Dr. Spindlings weren't real. It's possible that the previous Dr. Spindling was fake, but it's not really clear who would be trying to fool who with just another corpse in the morgue. The truth is, nobody was looking until we randomly stumbled into there. It's unlikely that anybody even knew that we knew a Dr. Spindling was dead. So if anything, it's probably the case that this Dr. Spindling in front of us isn't the real Dr. Spindling. Which means that the technology that they've developed here is far better than they've let on, which means they're lying to us, and they're willing to get a lot of people (copies?) killed to sell us on that lie.
+
+All of the sudden we had no idea what was going on. Some of us thought that it was some kind of mistake, though I couldn't say what kind of mistake it would be.
+
+"Is there something going on that I should know about?" Brib slowly suggested, as we huddled over the bodies.
+
+We tend towards honesty, so one of us said that we thought that we had seen a dead Dr. Spindling before, in the morgue.
+
+Brib raised an eyebrow, casually placed his scab-flecked hands on his hips, and asked us what we thought of that.
+
+It's times like this thatteam telepathy really pays off, because after an exceptionally brief mental shouting match, we all agreed out loud that we had no idea, weird stuff happens sometimes, and he should probably look into it after we leave. It's nothing major though, and we weren't worried about it.
+
+Brib smiled, said that he appreciated us pointing it out, and that he'd do just that. We blew up the machines with the vitriol, and let Brib walk us back to our rooms. Helpfully enough, Naario was there again to watch over us as we slept and recovered from that battle. When we got up he was still there, and everyone was eager to have him help us gather up our stuff and head directly down to the hangar to leave. We hopped onto Cain's skeletal horse, and got ourselves out of there.
+
+On the way back to Montilew, we saw a strange old dwarven man riding a camel, weighted down with some kind of haul. We tried to ride close enough to get a better look at him, but he saw us and disappeared before we could greet him.
