@@ -311,7 +311,7 @@ Voice|Commanding at a whisper and still being heard.
 #### Chemstain - Sapper
 
 Field|Known Information
----|--
+-|-
 Age|6 (Adult from 1 to 14)
 Size|Medium
 Species|Orc
@@ -322,5 +322,115 @@ Dislikes|Unraveling - Significant Trauma Response
 Manner|Skittish and submissive. Prone to panic under direct physical attack.
 Skills|Technomancy
 Voice|Morose with a touch of gruff
+
+#### Scosus - Scout
+
+Field|Known Information
+-|-
+Size|Varies, typically medium
+Species|Anima
+Appearance|Typically inhabits leaves and branches. Known to devote significant effort to the taking of fresh matter to match the local environment. Largely undetectable, even when moving.
+Backstory|None on record
+Likes|Working independently to support a nearby team
+Dislikes|Noise
+Manner|Inexpressive, has shown little regard for the lives of others.
+Plans|Had made reference to the possibility of just disappearing someday.
+Skills|Stealth, observation, ambush
+Voice|Sign language only
+
+#### Cauter - Chaplain/Artillery
+
+Field|Known Information
+-|-
+Age|67 (Adult from 40 to 780)
+Size|Medium
+Species|Dwarf
+Appearance|Wide eyes and smokey breath. Her skin is patchy and grey. Her clothes are ashy, and her hair is singed short.
+Backstory|Cauter was called to serve, and has served as a spiritual guide under Sergeant Kembrin for the entirety of her service. While she did apply for transfer a few times early in her military career, Kembrin blocked the transfers. There does not appear to be significant conflict between them as of late. Has been known to field-discipline other members of her unit as she deems necessary, which earned her a Dedication and Initiative Commendation which was also blocked by Sergeant Kembrin.
+Likes|Victory
+Dislikes|Indecision, Tolerance
+Manner|Chronically intense, with a penchant for rambling. Often punctuates her statements with bursts of Sovereign flame.
+Plans|Has stated a desire to loosen RoE on several occaisions
+Skills|Strongly attuned to Sun, with some skill in healing.
+Voice|Booming with a hint of rasp
+
+#### Sky Freedom - Air Support
+
+Field|Known Information
+-|-
+Age|9(Adult from 12 to 40)
+Size|Tiny
+Species|Goblin
+Appearance|A barely adolescent goblin child with long hair and long flowing robes. Always accompanied by Skein, a sort of flying lizard creature of unknown species.
+Backstory|Sky Freedom was a member of a nomadic tribe for a time, until he became seperated. It's unclear what happened to them, but he found his way into the wilds, and apparently survived independently for some time. Eventually he met Skein, and the two bonded. They lived together for a while, until they saw the class 7 breaching into our world with their own eyes. Proving that even the wildlanders can be loyal when called upon, they mounted up and flew in to help, encountering Sergeant Kembrin's squad apparently by chance. They immediately proved themselves as trustworthy and capable allies by pulling Cauter out of a tight spot, and they were immediately initiated as welcome aid.
+Likes|Riding around on Skein, going on adventures, pulling off crazy stunts
+Dislikes|Sitting around, "Boring Stuff"
+Manner|Friendly and adventurous
+Plans|Win the battle and make new friends
+Skills|Aerial Riding
+Voice|A bit on the screechy side if we're being totally honest
+
+#### Skein - Sky Freedom's Mount and Companion
+
+Field|Known information
+-----|----
+Age|Unknown
+Size|Huge
+Species|Unknown, see Appearance
+Appearance|A lizardlike creature approximately 15 yards in length, counting a 5 yard tail. They possess two sets of wings emerging from the top of the torso, extending to a span comparable to the total length. The tail has a broad, flat section on the end with razor sharp edges that appears to be used primarily for aerial and aquatic steering. Scales are typically green, glossy and studded with what appear to be several dozen gems. However the colors were observed to change quite vigorously when an officer attempted to corral Skein for inspection. While Skein's appearence is typically soft and approachable, the same incident revealed an impressive quantity of retractable fangs, claws, and spines.
+Backstory|Met Sky Freedom in the wilds at some recent point. They appear to have bonded, more detail is included in Sky Freedom's backstory.
+Likes|Stunt flying - Skein made a point of flying through the barracks at full speed on several occasions.
+Dislikes|Rodents
+Manner|Rambunctious and gregarious. Had to be removed from the main encampment after two days due to constant incorrigible disruptions.
+Skills|Exceptional flier in both speed in precision, uncomfirmed exceptional combat and sensory capabilities.
+Voice|Squawks loudly and often. Often seems to be participating in conversation, but no one, including Sky Freedom, admits any understanding of their speech.
+
+#### Hooskin - Hearth and Hive
+
+Field|Known Information
+-|-
+Age|53 (Adult from 18 to 120)
+Size|Medium
+Species|Satyr
+Appearance|Shows flecks of grey in his fur, but maintains a knobbily tough body all the same.
+Backstory|Tried to sign up for the rangers a few years back, but was rejected due to being a city dweller with no skills to independently survive in nature. He took some time to develop those skills, but ended up being recruited by High Command instead anyway. Has discussed a desire to join the rangers at some point, but no transfer requests have yet been recieved.
+Likes|Sharing good food.
+Dislikes|Violent solutions, Loud Noises
+Manner|Reliably jovial, always tries to lift the spirits of those around him.
+Plans|Always looks to keep everyone safe. Often acts as a balancing factor for Cauter.
+Skills|Honeymancy, Elemancy, and empathetic mediation
+Voice|Calm
+
+#### Dexton
+
+Field|Known Information
+-|-
+Age|34 (Adult from 24 to 110)
+Size|Medium
+Species|Felian
+Appearance|Well groomed and immaculately clean, due to charms permanently implanted in her clothing and fur.
+Backstory|Dexton was a popular martial exibitionist in River Cross, and is widely said to be the most skilled in the town, but she desired a greater stage for her glory, and so she signed up with High Command to travel the world and defeat new and exciting foes. She has self-reported that she underestimated the danger involved her first few missions, and after recieving demerits for tactical incompetence, but has since proven herself willing to learn. Sergeant Kembrin has been optimiztic about her prospects for survival and growth.
+Likes|Demonstrating her superiority, Hierarchy, Organization
+Dislikes|Messes
+
+Manner|Aloof, and rightfully so
+Plans|Had previously stated a desire to be Blessed, current motives and desires unknown.
+Skills|Speechcraft and swordscatship
+
+#### Gohboh - Frontliner
+
+Field|Known Information
+-|-
+Age|22 (Adult from 25 to 65)
+Size|Huge
+Species|Minotaur
+Appearance|A monstrously huge minotaur warrior. He rides a wild horse that he caught and tamed.
+Backstory|Despite his size, Gohboh has always been as gentle as can be. Even when pressed into service to High Command, he's used his size to contain violence rather than enable it. He ended up being transferred to Sergeant Kembrin in hopes that she would teach him to fight without hesitation, or at least find a way to use him despite his shortcomings as a warrior.
+Likes|Working out, pushing himself, protecting others, choking enemies out instead of killing them.
+Dislikes|Accidentally killing or maiming enemies that he was only trying to choke out, low-protein food
+Manner|Oozes positive energy, and refuses to take anything but an optimistic outlook on the world.
+Plans|Outwrestle a regent and take up their position non-lethally to break the cycle of violence.
+Skills|Wrestling, Growth, has dabbled in Peace despite guidance to the contrary.
+Voice|Booming
 
 
