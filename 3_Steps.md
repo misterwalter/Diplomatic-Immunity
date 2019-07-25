@@ -293,9 +293,9 @@ Extremely brutal, likely extremely heretical. Full capabilities unknown.
 
 ### Members 8+1:
 
-#### Sergeant Kembrin (she)
+#### Sergeant Kembrin - Leader
 
-Field|Known
+Field|Known Information
 ---|----
 Age|187 (Adult from 6 to 400)
 Size|Small
@@ -307,5 +307,20 @@ Dislikes|Imprecision, Obvious moves
 Manner|Old, Bold, and Cold
 Skills|Leadership, Tactics, Steath, Wildnerness Survival
 Voice|Commanding at a whisper and still being heard.
+
+#### Chemstain - Sapper
+
+Field|Known Information
+---|--
+Age|6 (Adult from 1 to 14)
+Size|Medium
+Species|Orc
+Appearance|Giant morose orc loaded down with a pile of techomatic gear. No pups visible at last contact.
+Backstory|Chemstain was picked up by the squad during the initial stages of the class seven. He had apparently been sent by his clan to seek help. However, he was unsuccessful in his attempt to lead the squad back to his family, likely due to spatial distortion. After a time he became integrated with the squad, and was promoted with the rest after proving himself in several engagements.
+Likes|Peace and quiet, maps
+Dislikes|Unraveling - Significant Trauma Response
+Manner|Skittish and submissive. Prone to panic under direct physical attack.
+Skills|Technomancy
+Voice|Morose with a touch of gruff
 
 
