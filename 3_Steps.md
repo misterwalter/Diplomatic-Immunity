@@ -240,3 +240,83 @@ It's times like this thatteam telepathy really pays off, because after an except
 Brib smiled, said that he appreciated us pointing it out, and that he'd do just that. We blew up the machines with the vitriol, and let Brib walk us back to our rooms. Helpfully enough, Naario was there again to watch over us as we slept and recovered from that battle. When we got up he was still there, and everyone was eager to have him help us gather up our stuff and head directly down to the hangar to leave. We hopped onto Cain's skeletal horse, and got ourselves out of there.
 
 On the way back to Montilew, we saw a strange old dwarven man riding a camel, weighted down with some kind of haul. We tried to ride close enough to get a better look at him, but he saw us and disappeared before we could greet him.
+
+---
+
+Sladaaji was pleased, as usual. We told him more or less the same story we told you, and he seemed satisfied with our performance. He didn't seem to mind that we'd just cheesed it at the end, he said that we told him everything he'd needed to know, and that we had helped to defeat a very dangerous band of heretics. He said that when he promulgated news of our success our stars would surely rise, and our crimes would be largely forgiven.
+
+"Largely."
+
+That was a load of bullshit, and we were all pretty well sick of acting like it wasn't. We had done so much for this grinning idiot, and he wasn't delivering anything for us.
+
+Sladaaji said that we shouldn't expect instant forgiveness for attacking a school and murdering the administrators.
+
+We said that it was a fucked up weird magic child torture dungeon, not a school.
+
+Sladaaji said that was just a matter of perspective.
+
+After a brief mental debate of whether or not we should kill him right then and there, we shot back that it really wasn't. It was absolutely objectively a fucked up weird magic child torture dungeon.
+
+Sladaaji said that was a perfectly valid viewpoint, but it wasn't a viewpoint that everyone shared, and if we wanted to survive in this world we had to learn to see things from the other side.
+
+The vote to kill Sladaaji was considerably closer that time, but we opted to give him an ultimatum instead. One more job. Something that would clear our names. If he couldn't guarantee that, we would walk right now.
+
+He asked us if we were sure, and said he didn't have much that would be enough to clear us. Truthfully, there was only one thing that had a chance of doing so.
+
+Sure. Fine. It's a rough mission. We can take it. What, do we have to kill a Blessed or something?
+
+"Not quite," Sladaaji replied, "I need you to kill three."
+
+# Session 3-11: The Target
+
+Sladaaji reached into his desk and pulled out a few active papers, explaining as he did that during the class seven certain parties had made certain decisions. In a moment of desperation thousands of servants were Blessed, and while the action allowed victory, the losses had been almost total, and the fallout has been dramatic.
+
+Each of us took a page and started to play with it, scrolling through 8 dossiers.
+
+Sladaaji assured us that it had been confirmed that only three were still alive, but that those three had been carving a path of devastation through a wildlands valley a nineday or so from the site of the class seven. Their motive was unknown, but they were freshly promoted and appeared unworthy of the status. If revocation was possible that would have been preferable. The wildlanders are perfectly capable of standing against most threats, but as it was, the violence was stirring old sentiments that were best forgotten. The three had to be put down, and had to be put down by servants. Anything less would breed treason.
+
+We just stared at the dossiers. These people seemed like either perfectly decent people, or unkillable elite warriors, with a few fitting both descriptions. And if they were Blessed, the mission seemed absurdly suicidal.
+
+We sat down with the dossiers, and got to work on a plan. I've attached my copy below for posterity's sake.
+
+## Squad 453
+A rogue unit operating without any shred of decency.
+
+### Gear:
+May carry seeds or other such greenery. If so, DO NOT TOUCH THE GREENERY. Leave it contained by whatever methods they are using. Fire is ineffective in damaging it.
+
+### Backstory:
+A squad of Blessed promoted to deal with the class seven event. In the course of the event, they took five casualties, and the remaining three appear to have gone berserk, carving a swath of atrocities across the wildlands. They need to be put down.
+
+### Style:
+Extremely brutal, likely extremely heretical. Full capabilities unknown.
+
+### Members 8+1:
+
+#### Sergeant Kembrin (she)
+
+Age|187 (Adult from 6 to 400)
+Size|Small
+Species|Kobold
+Appearance|Grizzled, scarred, and confident
+Backstory|Sergeant Kembrin is a loyal and experienced leader that has opted to stay at a low organizational level for deacades. Even before Promotion, she was known to be exceptionally talented in terms of squad level tactics. She has been brought in as an advisor to higher levels of operational planning in the past, but has always been at her best commanding a small squad in service of an outsized objective. She has almost always been able to keep her subordinates synergized, motivated, and healthy. Her squads tend to have higher replacement rates than the average squad, but far lower rates that one would expect from the tasks she is typically assigned.
+Likes|Thinking things through
+ |Taking care of her squad
+ |Discovering overlooked details
+Dislikes|Imprecision
+ |Obvious moves
+Manner|Old, Bold, and Cold
+Skills|Leadership
+ |Tactics
+ |Steath
+ |Wildnerness Survival
+Voice|Commanding at a whisper and still being heard.
+
+Aptitude Tests:
+
+Vigor|12
+Agilty|9
+Wits|12
+Grit|18
+Luck|9
+Charm|12
