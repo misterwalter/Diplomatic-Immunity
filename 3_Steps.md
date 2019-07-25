@@ -295,25 +295,23 @@ Extremely brutal, likely extremely heretical. Full capabilities unknown.
 
 #### Sergeant Kembrin (she)
 
+Field|Known
+---|----
 Age|187 (Adult from 6 to 400)
 Size|Small
 Species|Kobold
 Appearance|Grizzled, scarred, and confident
 Backstory|Sergeant Kembrin is a loyal and experienced leader that has opted to stay at a low organizational level for deacades. Even before Promotion, she was known to be exceptionally talented in terms of squad level tactics. She has been brought in as an advisor to higher levels of operational planning in the past, but has always been at her best commanding a small squad in service of an outsized objective. She has almost always been able to keep her subordinates synergized, motivated, and healthy. Her squads tend to have higher replacement rates than the average squad, but far lower rates that one would expect from the tasks she is typically assigned.
-Likes|Thinking things through
- |Taking care of her squad
- |Discovering overlooked details
-Dislikes|Imprecision
- |Obvious moves
+Likes|Thinking things through, Taking care of her squad, Discovering overlooked details
+Dislikes|Imprecision, Obvious moves
 Manner|Old, Bold, and Cold
-Skills|Leadership
- |Tactics
- |Steath
- |Wildnerness Survival
+Skills|Leadership, Tactics, Steath, Wildnerness Survival
 Voice|Commanding at a whisper and still being heard.
 
 Aptitude Tests:
 
+Trait| Most Recent Score
+-----|--
 Vigor|12
 Agilty|9
 Wits|12
