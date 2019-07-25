@@ -308,13 +308,4 @@ Manner|Old, Bold, and Cold
 Skills|Leadership, Tactics, Steath, Wildnerness Survival
 Voice|Commanding at a whisper and still being heard.
 
-Aptitude Tests:
 
-Trait| Most Recent Score
------|--
-Vigor|12
-Agilty|9
-Wits|12
-Grit|18
-Luck|9
-Charm|12
