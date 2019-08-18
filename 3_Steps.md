@@ -4,6 +4,8 @@ The story of the third season of the Imperial Dawn campaign called Diplomatic Im
 
 - Ara - A passionate young girl with great mastery of knives and moons.
 
+- Santha - Ara's once-elder-now-younger sister. She used to run a gang of urchins, but she lost most of her ability in Deshton Reform.
+
 - Ixze - A teenage deserter trying to find zer way in the world.
 
 - Doktuh Dakog, MD - A doctor of great confidence and dubious skill.
@@ -11,6 +13,8 @@ The story of the third season of the Imperial Dawn campaign called Diplomatic Im
 - Jubilee - An old hand at the theater that really wanted to get out more.
 
 - Master Novum Cain - A master of bone and flesh. He is NOT a good boy.
+
+- Folium - Florist, bombmaker, expert planner, and shrewd businesswoman.
 
 # Session 1: Redemption
 
