@@ -273,7 +273,7 @@ Sladaaji reached into his desk and pulled out a few active papers, explaining as
 
 Each of us took a page and started to play with it, scrolling through 8 dossiers.
 
-Sladaaji assured us that it had been confirmed that only three were still alive, but that those three had been carving a path of devastation through a wildlands valley a nineday or so from the site of the class seven. Their motive was unknown, but they were freshly promoted and appeared unworthy of the status. If revocation was possible that would have been preferable. The wildlanders are perfectly capable of standing against most threats, but as it was, the violence was stirring old sentiments that were best forgotten. The three had to be put down, and had to be put down by servants. Anything less would breed treason.
+Sladaaji assured us that it had been confirmed that only three were still alive, but that those three had been carving a path of devastation through a wildlands valley known as Storm Arc Valley a nineday or so from the site of the class seven. Their motive was unknown, but they were freshly promoted and appeared unworthy of the status. If revocation was possible that would have been preferable. The wildlanders are perfectly capable of standing against most threats, but as it was, the violence was stirring old sentiments that were best forgotten. The three had to be put down, and had to be put down by servants. Anything less would breed treason.
 
 We just stared at the dossiers. These people seemed like either perfectly decent people, or unkillable elite warriors, with a few fitting both descriptions. And if they were Blessed, the mission seemed absurdly suicidal.
 
@@ -358,7 +358,7 @@ Voice|Booming with a hint of rasp
 
 Field|Known Information
 -|-
-Age|9(Adult from 12 to 40)
+Age|9 (Adult from 12 to 40)
 Size|Tiny
 Species|Goblin
 Appearance|A barely adolescent goblin child with long hair and long flowing robes. Always accompanied by Skein, a sort of flying lizard creature of unknown species.
@@ -434,3 +434,40 @@ Skills|Wrestling, Growth, has dabbled in Peace despite guidance to the contrary.
 Voice|Booming
 
 
+# Session 3-12: Spider Friends!
+
+We rode camels out of Montilew, and made our way to the Stochastices, where we bid Ixze farewell for a bit, said hello to Naario, and swapped the camels out for spiders. Good thing we did, because those spiders saved us an incredible amount of trouble.
+
+Once we got ourselves all suited up, we rode our spiders along the Roiling River until we hit the first cliff of the valley. There was a wooden staircase that would have easily carried us down the several hundred meter drop, but someone had burned most of it down, so all that was left was a few stray landings that wouldn't do us any good.
+
+But hey! We had spiders! So we decided to camp for the night, and in the morning we just double checked our saddle straps, and let the spiders comfortably carry each of us down into the valley below.
+
+That night can't be entirely glazed over though, because that was the night that Santha rode her spider as the spiders went off hunting together. We had been advised to just let them feed themselves, but Santha is a curious girl, so she stayed strapped to her spider all night. When the spiders started pacing around and hers stopped to give her one last chance to get off, she just gave it a little pat and stayed put.
+
+With that, the spiders abruptly raced off together, and Santha was in for a wild ride, with most of us watching mentally. The spiders swarmed across the fields and sparse trees at the top of the cliff. Eventually the spiders seemed to agree on a certain tree, and all of them started covering it with webs. The tree was webbed up in less than a minute, at which point the spiders all retreated back from it a dozen meters and crouched in the tall grasses, silently waiting.
+
+After a few hours, the spiders still hadn't made a sound, and Santha was doing her best to stay focused when a flying creature gracefully glid into the tree and immediately became entangled in the webs. The spiders pounced as one, and ten year old Santha was given an uncomfortably close look as the spiders bit, pinned, and tore the their prey to pieces in moment.
+
+As the spiders feasted, Santha looked closer at their meal. It had grey green scales, and a fair number of wings. She started to wonder if it could be related to Skein. It had only been maybe 10 or 15 feet long, so it wasn't nearly as big, but it was worth looking into. It wasn't worth getting in between the spiders and their meal though, so Santha had to wait for them to finish, and then pick up what scraps she could.
+
+When Santha and the spiders returned that night, Doktah Dakog inspected the remains, with assistance from Folium. He figured that there had probably been about 3-6 wings in life. He also located what looked like a gem fused with a vertibra, and pointed out that the scales were becoming more translucent by the minute.
+
+Looking at all this, we were certain that this creature was of the same species as Skein, but likely much younger and weaker. We weren't sure of much more than that though.
+
+---
+
+Once we hit the bottom, we took a closer look at the wreckage. From what we could discern, someone had used some kind of firey explosion at the base to knock the stairs down, and burn what was left. From the lack of large debris around, and a few drag marks in the dirt, we figured that they probably even took the time to burn bigger parts of the wreckage. The whole thing was clearly deliberate sabatoge. Folium leaned towards it being an alchemical explosion by Chemstain, but we couldn't quite rule out Cauter's fires either.
+
+---
+
+Most of the land below the cliff was a pretty thick jungle, but there was a decent amount of open space next to the river, so we opted to just keep following the river for as long as we could. Most of the day passed pretty peacefully, the only exciting moment is when we stumbled onto some really tasty looking fruit. Dakog was pretty scared at first, on account of him thinking that it might be apples, but once he was satisfied that the fruit wasn't apples at all, he wolfed a bunch down. When he didn't show any signs of poisoning after a few minutes, we all passed them around, and had a nice fresh meal.
+
+Once we came within sight of the tower marked on our map, and the second cliffline, we hit our first real obstacle: The river forked, and the tower, along with the bridge into the valley that it was connected to, were right in an island in the middle of it. The river poured off the cliff on either side of the tower, and of course, there was no bridge across the boiling river. We had to figure out our own way across.
+
+We tried a few things, but the breakthrough came when Ara convinced her spider to use a mindlink. Once that was done, the two started conversing at length about what to do. Ara's spider seemed pretty confident in its ability to jump across the river, or knock down a tree to cross the river, or do just about anything. The rest of us weren't as convinced, but we convinced the cocky spider to string a strong line from the top of a tree that Folium grew on the bank down to the other side.
+
+With that done, Folium, Ara, and Santha all crossed on their spiders without incident.
+
+Dakog, however, seemed to be a bit heavier than Ara's spider anticipated, and as he tried to cross the line split and he and his spider plunged screaming towards the boiling river.
+
+# Session 3-13
