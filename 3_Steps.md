@@ -271,9 +271,9 @@ Sure. Fine. It's a rough mission. We can take it. What, do we have to kill a Ble
 
 Sladaaji reached into his desk and pulled out a few active papers, explaining as he did that during the class seven certain parties had made certain decisions. In a moment of desperation thousands of servants were Blessed, and while the action allowed victory, the losses had been almost total, and the fallout has been dramatic.
 
-Each of us took a page and started to play with it, scrolling through 8 dossiers.
+Each of us took a page and started to play with it, scrolling through the nine dossiers.
 
-Sladaaji assured us that it had been confirmed that only three were still alive, but that those three had been carving a path of devastation through a wildlands valley known as Storm Arc Valley a nineday or so from the site of the class seven. Their motive was unknown, but they were freshly promoted and appeared unworthy of the status. If revocation was possible that would have been preferable. The wildlanders are perfectly capable of standing against most threats, but as it was, the violence was stirring old sentiments that were best forgotten. The three had to be put down, and had to be put down by servants. Anything less would breed treason.
+Sladaaji assured us that it had been confirmed that only three were still alive, but that those three had been carving a path of devastation through a wildlands valley known as Storm Arc Valley a nineday or so from the site of the class seven. Their motive was unknown, but they were freshly promoted and appeared unworthy of the status. If revocation was possible that would have been preferable, but it wasn't, so we had to kill them ourselves. The wildlanders are perfectly capable of standing against most threats, but as it was, the violence was stirring old sentiments that were best forgotten. The three had to be put down, and had to be put down by servants. Anything less would breed treason.
 
 We just stared at the dossiers. These people seemed like either perfectly decent people, or unkillable elite warriors, with a few fitting both descriptions. And if they were Blessed, the mission seemed absurdly suicidal.
 
