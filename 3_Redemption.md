@@ -1,4 +1,5 @@
-The story of the third season of the Imperial Dawn campaign called Diplomatic Immunity, played in the Spring of 2019.
+# Season 3: Redemption
+Played from Spring of 2019 to Winter of 2019.
 
 # The Main Cast
 
